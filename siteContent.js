@@ -285,12 +285,15 @@ window.SITE_CONTENT = {
   ],
 
   rituals: [
+    'Keep knowing each other so deeply that sometimes it feels like you live somewhere inside me.',
+    'Keep noticing when something is wrong with me, even when I am trying my best to hide it.',
+    'Never let the day end with distance between us — make sure we are okay before we sleep.',
+    'Your Theories that i love so much',
     'Ask “How are you really?” instead of only “How was your day?”',
     'Protect one intentional date for us every month.',
     'Notice ordinary days instead of waiting only for special occasions.',
     'Try one new experience together regularly.',
-    'Have dinners where our phones are not invited.',
-    'Write each other one letter every year.',
+    'Have dates where our phones are not invited.',
     'Never let being comfortable become the same thing as stopping the effort.'
   ],
 
