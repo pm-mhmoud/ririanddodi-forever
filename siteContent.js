@@ -12,9 +12,9 @@ window.SITE_CONTENT = {
     lines: [
       'Hi, Riri.',
       'I made you something.',
-      'Not a gallery. Not a slideshow.',
-      'Just us, in words.',
-      'Happy Birthday, my love.'
+      'This is our little corner of the world.',
+      'Just you, me, and everything in between.',
+      'Happy Birthday, Habibt Albi ❤️'
     ],
     button: 'Enter Our World'
   },
