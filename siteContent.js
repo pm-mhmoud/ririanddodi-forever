@@ -62,14 +62,14 @@ window.SITE_CONTENT = {
     eyebrow: 'One photograph',
     title: 'If I could keep one frame of us…',
     caption:
-      'I chose this one because it reminds me of how being with you feels when I stop overthinking everything — calm, familiar, and somehow exactly where I want to be.'
+      'I chose this one because it reminds me of how being with you feels when I stop overthinking everything. calm, familiar, and somehow exactly where I want to be.'
   },
 
   reasons: [
     {
       title: 'You make love feel like a choice worth making every day',
       text:
-        'Not just a feeling that arrives on its own — but care, patience, effort, and showing up. I love that what we have is something we both keep choosing.'
+        'Not just a feeling that arrives on its own. but care, patience, effort, and showing up. I love that what we have is something we both keep choosing.'
     },
     {
       title: 'You make ordinary moments matter',
@@ -84,7 +84,7 @@ window.SITE_CONTENT = {
     {
       title: 'Your heart',
       text:
-        'I love the way you care. Not only in the big obvious moments, but in the small ones — remembering what matters to someone, noticing when something feels wrong, checking in, worrying, helping, and giving pieces of yourself without making a show of it.'
+        'I love the way you care. Not only in the big obvious moments, but in the small ones. remembering what matters to me, noticing when something feels wrong, checking in, worrying, helping, and giving pieces of yourself without making a show of it.'
     },
     {
       title: 'The little things you do without noticing',
@@ -180,7 +180,7 @@ window.SITE_CONTENT = {
     ],
     answer: 2,
     reaction:
-      'That is my favorite thing about us. Our love is not perfect — it is real, and we keep choosing it.'
+      'That is my favorite thing about us. Our love is not perfect. it is real, and we keep choosing it.'
   },
 
   {
@@ -219,7 +219,7 @@ window.SITE_CONTENT = {
     ],
     answer: 2,
     reaction:
-      'The butterflies are beautiful. But this part — choosing each other again and again — is the kind of love I want with you.'
+      'The butterflies are beautiful. But this part choosing each other again and again is the kind of love I want with you.'
   },
 
   {
@@ -287,8 +287,9 @@ window.SITE_CONTENT = {
   rituals: [
     'Keep knowing each other so deeply that sometimes it feels like you live somewhere inside me.',
     'Keep noticing when something is wrong with me, even when I am trying my best to hide it.',
-    'Never let the day end with distance between us — make sure we are okay before we sleep.',
+    'Never let the day end with distance between us. make sure we are okay before we sleep.',
     'Your Theories that i love so much',
+    'My Principles, Your Theories',
     'Ask “How are you really?” instead of only “How was your day?”',
     'Protect one intentional date for us every month.',
     'Notice ordinary days instead of waiting only for special occasions.',
